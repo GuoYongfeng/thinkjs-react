@@ -1,21 +1,18 @@
+# 构建个人博客系统示例
 
-application created by [ThinkJS](http://www.thinkjs.org)
-
-## install dependencies
+## 安装项目依赖资源
 
 ```
 npm install
 ```
 
-## start server
+## 启动项目
 
 ```
 npm start
 ```
 
-## deploy with pm2
-
-use pm2 to deploy app on production envrioment.
+## 使用pm2部署
 
 ```
 pm2 startOrGracefulReload pm2.json
